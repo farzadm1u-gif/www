@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "title_id": "PPSA03671",
+  "title": "Marvel's Wolverine",
+  "game_folder": "F:\\wolwerin\\Marvels.Wolverine-PS5.Hacked-PPSA03671-v01.001.005-13.xx_www.P30Day.ir\\PPSA03671-app0",
+  "tool_version": "4.0.2",
+  "created_at": "2026-10-07 20:52:56",
+  "updated_at": "2026-10-07 20:52:58",
+  "current_target": "4xx",
+  "originals": {
+    "zip": "F:\\wolwerin\\Marvels.Wolverine-PS5.Hacked-PPSA03671-v01.001.005-13.xx_www.P30Day.ir\\PPSA03671 Marvel's Wolverine (01.001.005) original files.zip",
+    "zip_abs": "F:\\wolwerin\\Marvels.Wolverine-PS5.Hacked-PPSA03671-v01.001.005-13.xx_www.P30Day.ir\\PPSA03671 Marvel's Wolverine (01.001.005) original files.zip",
+    "zip_sha256": "4b8ed6f46be8b804ade2078908192f3e13ca7b3aae20e162f51c6261556be530",
+    "files": {
+      "eboot.bin": "2feb5b0abbb5b48f2d651f2cf03eb84903e8e75524085dadc2de202668f2171d",
+      "libcohtml.Prospero.prx": "9b53e67d46386052401c338148a35d938d8cf66b1b008bb3983606c01eef7b3a",
+      "libRenoirCore.PS5.prx": "ac83f1d6ac26fa4fcd1b837274eda001b8df5c1c6aceb9ceb2f598cd6fd4371d",
+      "sce_module/libc.prx": "e43230106ac872eb39322a82b0f22ab710943913004966dc76861f432864e982",
+      "sce_sys/about/right.sprx": "1ef39d22018e28fa0ca6cbf340e661f98af9a2e77361111140f7a337988d3b9d",
+      "sce_sys/param.json": "fd559857c14e6051fb45d0cd680c2e7fe41f99952629d0a737157687ba54e7eb"
+    },
+    "snapshot_at": "2026-10-07 20:52:58"
+  },
+  "targets": {
+    "4xx": {
+      "built_at": "2026-10-07 20:52:58",
+      "tool_version": "4.0.2",
+      "post_hashes": {}
+    }
+  },
+  "history": [
+    {
+      "action": "apply_target",
+      "target": "4xx",
+      "timestamp": "2026-10-07 20:52:58",
+      "tool_version": "4.0.2"
+    }
+  ]
+}
